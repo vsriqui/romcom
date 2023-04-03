@@ -15,6 +15,7 @@ ______________________________________________________
 * Use command "git clone git@github.com:vsriqui/romcom.git" in command line.
 * Cd into the romcom directory.
 * In command line run "open index.html".
+* Alternatively, https://vsriqui.github.io/romcom/
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
